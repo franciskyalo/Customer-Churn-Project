@@ -32,7 +32,7 @@ Capturing churning customers is of great importance as losing customers equits t
 
 ## Evaluation 
 
-A randomforest classifier and a xgboost classifeirs were chosen as the two best models and compared against each other according to their performance on predicting new unseen data. in line with the business problem. The xgboost model was chosen as the model for deployment as it had and accuracy of 90% and a recall of 79%.
+A randomforest classifier and a xgboost classifeirs were chosen as the two best models and compared against each other according to their performance on predicting new unseen data. in line with the business problem. **The xgboost model was chosen as the model for deployment as it had and accuracy of 90% and a recall of 79%**.
 
 ## Recommendations 
 
